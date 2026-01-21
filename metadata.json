@@ -1,0 +1,7 @@
+{
+  "name": "Adhkari - أدكاري",
+  "description": "تطبيق أذكار إسلامي عصري بلمسة جمالية، يتضمن نظام اشتراكات، لوحة تحكم، وأوقات الصلاة.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
